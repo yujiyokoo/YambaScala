@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">YambaScalaProject</string>
+    <string name="titleYamba">Yamba Scala</string>
+    <string name="titleStatus">Status Update</string>
+    <string name="hintText">Please enter your 140-character status</string>
+    <string name="buttonUpdate">Update</string>
 </resources>
